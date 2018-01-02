@@ -9,7 +9,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Đoàn Bình và Thiện Duyên',
-    siteUrl: 'http://thienduyen.net',
+    siteUrl: 'http://dohudon.com',
     rssFeedTitle: 'thienduyen',
     rssFeedDescription: 'Đoàn Bình và Thiện Duyên, đức phật dạy làm người',
   },
